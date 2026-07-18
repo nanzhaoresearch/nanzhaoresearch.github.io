@@ -17,9 +17,6 @@ main:
     
   - title: "Notebook"
     url: /year-archive/
-        
-  - title: "Projects"
-    url: /projects/
     
   - title: "Contact"
     url: /contact/
