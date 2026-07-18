@@ -9,22 +9,22 @@
 
 main:
   - title: "Home"
-    url: //
+    url: /home/
 
   - title: "About"
-    url: //    
+    url: /about/    
 
   - title: "Research"
-    url: //    
+    url: /research/    
     
   - title: "Notebook"
-    url: //
+    url: /notebook/
         
   - title: "Projects"
-    url: //
+    url: /projects/
     
   - title: "Contact"
-    url: //
+    url: /contact/
     
   # - title: "CV"
   #   url: /cv-json/
