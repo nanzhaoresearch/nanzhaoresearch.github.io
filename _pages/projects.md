@@ -3,8 +3,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Projects
-
 This page gathers my current and developing research interests. As I am still in the early stage of my PhD, these projects are evolving.
 
 ## PhD Research
