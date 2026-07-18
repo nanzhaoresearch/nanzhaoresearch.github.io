@@ -28,9 +28,9 @@ author:
   bio              : "PhD researcher exploring Responsible AI governance in start-ups, with a strong interest in public policy and responsible innovation"
   location         : "United Kingdom"
   institute        : "Loughborough University"
-  github           : "nanzhaoresearch"
+  github           : (https://nanzhaoresearch.github.io)
   email            : "zhaonan_329@outlook.com" 
-  Linkedln         : "https://www.linkedin.com/in/nan-zhao-mba-cscp-pmp-06113116a/"
+  Linkedln         : (https://www.linkedin.com/in/nan-zhao-mba-cscp-pmp-06113116a/)
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "nanzhaoresearch"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
