@@ -2,6 +2,7 @@
 permalink: /research/
 author_profile: true
 ---
+
 ## Current research
 
 My PhD research explores how AI start-ups understand and implement
