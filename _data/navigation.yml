@@ -18,7 +18,7 @@ main:
     url: /research/    
     
   - title: "Notebook"
-    url: /posts/
+    url: /year-archive/
         
   - title: "Projects"
     url: /projects/
