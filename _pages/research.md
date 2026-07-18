@@ -3,7 +3,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Current research
+## Current PhD research
 
 My PhD research explores how AI start-ups understand and implement
 Responsible AI governance while responding to commercial pressures and
