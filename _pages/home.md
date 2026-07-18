@@ -3,9 +3,6 @@ permalink: /
 author_profile: true
 ---
 
-
-# Nan Zhao
-
 I am a PhD researcher exploring Responsible AI governance in start-ups, with a strong interest in public policy, responsible innovation, and evidence-informed decision-making.
 
 My research interests include Responsible AI, organisational implementation, innovation, entrepreneurship, and public policy. I am particularly interested in how organisations translate high-level AI governance principles into everyday practices.
