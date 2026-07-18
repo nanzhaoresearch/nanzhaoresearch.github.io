@@ -1,10 +1,8 @@
 ---
-permalink: /
+permalink: /about/
 title: "Nan Zhao"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 I am a PhD researcher exploring Responsible AI governance in start-ups at Loughborough University London. My research interests include Responsible AI, organisational implementation, innovation, and public policy.
 
