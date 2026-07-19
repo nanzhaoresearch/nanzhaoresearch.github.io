@@ -7,6 +7,7 @@ tags:
   - data protection
   - ICO
   - UK public policy
+share: false
 ---
 
 Automated systems increasingly influence decisions about employment, credit, public services and access to other important opportunities. These systems may improve efficiency and consistency, but they also raise concerns about transparency, accountability and people’s ability to challenge decisions that significantly affect them.
