@@ -112,5 +112,4 @@ Access is another consideration. Large organisations may be better placed to par
 * Department for Science, Innovation and Technology, AI Growth Lab: Call for Evidence.
 
 ## About this Policy Note
-This article is an independently written overview for general informational purposes. It builds on a briefing originally prepared as part of a fellowship application and has been substantially revised, updated and adapted for a general audience.
-It reflects my developing interest in AI governance, responsible innovation and public policy. It does not represent the views of the UK Parliament, the Parliamentary Office of Science and Technology, the Information Commissioner’s Office or my university, and it should not be treated as legal advice.
+This article is an independently written overview for general informational purposes. It builds on a briefing originally prepared as part of a fellowship application and has been substantially revised, updated and adapted for a general audience.It reflects my developing interest in AI governance, responsible innovation and public policy. It does not represent the views of the UK Parliament, the Parliamentary Office of Science and Technology, the Information Commissioner’s Office or my university, and it should not be treated as legal advice.
