@@ -58,9 +58,13 @@ The Data Protection Act 2018 (Code of Practice on Artificial Intelligence and Au
 These Regulations require the Information Commissioner to prepare a Code of Practice giving guidance on good practice in:
 * developing and using artificial intelligence; and
 * conducting automated decision-making involving personal data.
+
 The Code must also address good practice in the processing of children’s personal data.
+
 The Regulations themselves primarily impose a duty on the Information Commissioner to prepare the Code. Organisations’ underlying legal obligations continue to arise from the UK GDPR, the Data Protection Act 2018 and related legislation.
+
 However, the Code could play an influential role in explaining how these requirements should be applied in practice. It may help organisations understand what regulators expect in areas including transparency, explainability, discrimination, accountability, individual rights and routes to redress.
+
 The ICO consulted on updated guidance concerning automated decision-making and profiling in 2026. It has indicated that this guidance will inform parts of the future statutory Code.
 
 ## Challenge 1: Explaining automated decisions
